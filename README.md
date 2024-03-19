@@ -1,1 +1,1 @@
-[Issue tracker only](https://github.com/cessda/eqb.colectica.issues/issues)
+[Issue tracker only](https://github.com/cessda/cessda.dmeg-dag.issues/issues)
